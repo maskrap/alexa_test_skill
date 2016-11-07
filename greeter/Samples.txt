@@ -1,0 +1,7 @@
+DevSam say hello
+DevSam say hello world
+DevSam hello
+DevSam say hi
+DevSam say hi world
+DevSam hi
+DevSam how are you
